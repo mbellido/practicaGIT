@@ -1,0 +1,10 @@
+C:\Users\manolo\PracticaGIT\practicaGIT\Practica6.1_MBG1819\bin\Debug\Practica6.1_MBG1819.exe.config
+C:\Users\manolo\PracticaGIT\practicaGIT\Practica6.1_MBG1819\bin\Debug\Practica6.1_MBG1819.exe
+C:\Users\manolo\PracticaGIT\practicaGIT\Practica6.1_MBG1819\bin\Debug\Practica6.1_MBG1819.pdb
+C:\Users\manolo\PracticaGIT\practicaGIT\Practica6.1_MBG1819\obj\Debug\Practica6.1_MBG1819.csprojAssemblyReference.cache
+C:\Users\manolo\PracticaGIT\practicaGIT\Practica6.1_MBG1819\obj\Debug\Practica6._1_MBG1819.Form1.resources
+C:\Users\manolo\PracticaGIT\practicaGIT\Practica6.1_MBG1819\obj\Debug\Practica6._1_MBG1819.Properties.Resources.resources
+C:\Users\manolo\PracticaGIT\practicaGIT\Practica6.1_MBG1819\obj\Debug\Practica6.1_MBG1819.csproj.GenerateResource.cache
+C:\Users\manolo\PracticaGIT\practicaGIT\Practica6.1_MBG1819\obj\Debug\Practica6.1_MBG1819.csproj.CoreCompileInputs.cache
+C:\Users\manolo\PracticaGIT\practicaGIT\Practica6.1_MBG1819\obj\Debug\Practica6.1_MBG1819.exe
+C:\Users\manolo\PracticaGIT\practicaGIT\Practica6.1_MBG1819\obj\Debug\Practica6.1_MBG1819.pdb
